@@ -30,7 +30,7 @@ class DashBoardScreen extends StatelessWidget {
             const Positioned(
               top: 0,
               child: BigText(
-                text: 'Fyne Kuuk Restaurant',
+                text: 'Res-Manager',
               ),
             ),
             const Positioned(
